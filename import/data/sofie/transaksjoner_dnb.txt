@@ -1,0 +1,696 @@
+"Dato";"Forklaring";"Rentedato";"Ut fra konto";"Inn på konto"
+"13.02.2026";"Varekjøp i butikk EXTRA FÅVANG          F Reservert transaksjon ";"16.02.2026";277.1;""
+"13.02.2026";"Varekjøp i butikk BK 5079 LILLEHA       L Reservert transaksjon ";"16.02.2026";185;""
+"12.02.2026";"Kontoregulering  722 Mobil Overføring  ";"13.02.2026";"";500
+"11.02.2026";"Varekjøp Rema Hunndalen Celluloseveg Hunnda Dato 11.02 kl. 15.04 ";"12.02.2026";79.9;""
+"11.02.2026";"Overføring Innland  1412 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"12.02.2026";300;""
+"09.02.2026";"Kontoregulering  212 Mobil Overføring  ";"10.02.2026";"";662
+"04.02.2026";"Visa  100022  Nok 129,00 Netflix.com ";"04.02.2026";129;""
+"03.02.2026";"Varekjøp Apotek 1 Lena Rådhusgata 2 Lena Dato 03.02 kl. 14.23 ";"03.02.2026";3211.4;""
+"03.02.2026";"Varekjøp Rema Lena Rådhusgt 27 Lena Dato 03.02 kl. 14.25 ";"03.02.2026";54.9;""
+"02.02.2026";"Overføring Innland  799 Kasper Haugestøl Regninger Februar ";"02.02.2026";"";3000
+"31.01.2026";"Varekjøp Joker Gjøvik Johan Granvi Gjøvik Dato 31.01 kl. 14.16 ";"02.02.2026";156;""
+"31.01.2026";"Kontoregulering  1411 Mobil Overføring  ";"02.02.2026";3000;""
+"31.01.2026";"Overføring Innland  1533 Kristina Krukhaug Linde Godis ";"02.02.2026";"";60
+"30.01.2026";"Giro  3318752080 Sofie Krukhaug Linde  ";"30.01.2026";"";3500
+"29.01.2026";"Kontoregulering  1410 Mobil Overføring  ";"29.01.2026";600;""
+"29.01.2026";"Giro  3316038133 Sofie Krukhaug Linde  ";"29.01.2026";"";100
+"28.01.2026";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 28.01 kl. 10.51 ";"28.01.2026";25;""
+"28.01.2026";"Verdipapir  22247368 22247368 Fondshandel ";"28.01.2026";500;""
+"24.01.2026";"Overføring Innland  1530 Kristina Krukhaug Linde Negler ";"26.01.2026";"";500
+"24.01.2026";"Overføring Innland  1407 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"26.01.2026";200;""
+"23.01.2026";"Overføring Innland  1529 Eline Julianne k Linde Nonstophomeflurry ";"26.01.2026";"";200
+"23.01.2026";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 23.01 kl. 14.39 ";"23.01.2026";407.8;""
+"22.01.2026";"Varekjøp Spar Lena Valsetvegen Lena Dato 22.01 kl. 20.51 ";"23.01.2026";543.5;""
+"22.01.2026";"Kontoregulering  211 Mobil Overføring  ";"23.01.2026";"";544
+"22.01.2026";"Kontoregulering  721 Mobil Overføring  ";"23.01.2026";"";150
+"22.01.2026";"Visa  100022  Nok 39,00 Apple.com/bill ";"22.01.2026";39;""
+"20.01.2026";"Giro  1405 Mova AS Avtalegiro Invoice 1816231";"20.01.2026";549;""
+"17.01.2026";"Visa  100021  Vipps:biri Gardsmeieri Ga ";"19.01.2026";61;""
+"17.01.2026";"Varekjøp Clas Ohl 2839 Jernbanesv.6 Gjøvik Dato 17.01 kl. 17.09 ";"19.01.2026";266.7;""
+"17.01.2026";"Kontoregulering  720 Mobil Overføring  ";"19.01.2026";"";100
+"17.01.2026";"Overføring Innland  794 Kasper Haugestøl Tlf Salgsgebyr På 1kr ";"19.01.2026";"";1499
+"16.01.2026";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 16.01 kl. 15.15 ";"19.01.2026";62.9;""
+"15.01.2026";"Visa  100121  Vipps:storytel ";"16.01.2026";219;""
+"15.01.2026";"Visa  100021  Uno-x 71024 Raufoss El ";"16.01.2026";206.35;""
+"14.01.2026";"Overføring Innland  1406 Kristina Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"14.01.2026";700;""
+"13.01.2026";"Visa  100022  Nok 554,00 Zalando Payments g ";"15.01.2026";554;""
+"13.01.2026";"Visa  100021  Vipps:klarna ";"14.01.2026";660;""
+"13.01.2026";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 13.01 kl. 17.59 ";"14.01.2026";396.65;""
+"13.01.2026";"Overføring Innland  1521 Kristina Krukhaug Linde  ";"14.01.2026";"";40
+"13.01.2026";"Overføring Innland  792 Kasper Haugestøl Pæng For Data 10kr i Salg- Og Reset Tgebyr";"13.01.2026";"";1990
+"10.01.2026";"Visa  100022  Nok 79,00 Apple.com/bill ";"12.01.2026";79;""
+"10.01.2026";"Varekjøp Rema Gjøvik Går Strandgata 1 Gjøvik Dato 10.01 kl. 17.15 ";"12.01.2026";670.2;""
+"10.01.2026";"Varekjøp Vic Cc Gjøvik Jernbanesvin Gjøvik Dato 10.01 kl. 15.36 ";"12.01.2026";159.5;""
+"10.01.2026";"Kontoregulering  209 Mobil Overføring  ";"12.01.2026";"";657
+"09.01.2026";"Overføring Innland  5409 Veslemøy Linde Poseklemme Ikea ";"09.01.2026";"";30
+"08.01.2026";"Overføring Innland  5408 Veslemøy Linde Hilsen Po ";"09.01.2026";"";300
+"07.01.2026";"Visa  100121  Dominos Pizza ";"08.01.2026";279;""
+"07.01.2026";"Visa  100021  Vipps:klarna ";"08.01.2026";1285.15;""
+"07.01.2026";"Kontoregulering  208 Mobil Overføring  ";"08.01.2026";"";434
+"07.01.2026";"Kontoregulering  207 Mobil Overføring  ";"08.01.2026";"";279
+"06.01.2026";"Varekjøp Rusta Gjøvik Kasper Andre Gjøvik Dato 06.01 kl. 17.33 ";"07.01.2026";159.7;""
+"06.01.2026";"Giro  1404 Globalconnect AS Efaktura ";"06.01.2026";729;""
+"05.01.2026";"Visa  100022  Nok 17,00 Apple.com/bill ";"06.01.2026";17;""
+"05.01.2026";"Visa  100221  Vipps:ikea Netthandel ";"06.01.2026";398;""
+"05.01.2026";"Visa  100121  Max Burgers 7010203_kiosk ";"06.01.2026";120;""
+"05.01.2026";"Overføring Innland  791 Kasper Haugestøl Regninger Januar ";"06.01.2026";"";3000
+"04.01.2026";"Visa  100222  Nok 129,00 Netflix.com ";"05.01.2026";129;""
+"03.01.2026";"Visa  100122  Eur 4,99 Riot: Valutakurs: 12,1142";"05.01.2026";60.45;""
+"03.01.2026";"Visa  100022  Nok 109,00 Disney Plus ";"05.01.2026";109;""
+"01.01.2026";"Kontoregulering  719 Mobil Overføring  ";"02.01.2026";"";26
+"31.12.2025";"Renter   ";"01.01.2026";0.03;""
+"31.12.2025";"Kontoregulering  1403 Mobil Overføring  ";"31.12.2025";3000;""
+"31.12.2025";"Giro  3255362921 Sofie Krukhaug Linde  ";"31.12.2025";"";3000
+"28.12.2025";"Overføring Innland  5399 Veslemøy Linde Digital Fotoramme ";"29.12.2025";"";160
+"24.12.2025";"Overføring Innland  790 Kasper Haugestøl For Oscar ";"29.12.2025";"";150
+"22.12.2025";"Visa  100022  Nok 39,00 Apple.com/bill ";"22.12.2025";39;""
+"22.12.2025";"Overføring Innland  1514 Kristina Krukhaug Linde Monster ";"22.12.2025";"";30
+"21.12.2025";"Varekjøp Normal Raufoss Storgata 49, Raufos Dato 21.12 kl. 17.39 ";"22.12.2025";122;""
+"20.12.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 20.12 kl. 10.45 ";"22.12.2025";121.3;""
+"20.12.2025";"Overføring Innland  1501 Eline Julianne k Linde Skyss Penger Fra Kris ";"22.12.2025";"";200
+"20.12.2025";"Giro  1401 Mova AS Avtalegiro Invoice 1742487";"22.12.2025";331;""
+"18.12.2025";"Varekjøp Norli Cc Gjøvik Jernbanevege Gjøvik Dato 18.12 kl. 20.23 ";"19.12.2025";539.4;""
+"18.12.2025";"Varekjøp Normal Gjøvik Jernbanesvin Gjøvik Dato 18.12 kl. 20.40 ";"19.12.2025";211;""
+"18.12.2025";"Overføring Innland  1402 Stina Myreng Betaling Tpp: Vipps Mobilepay AS";"19.12.2025";105;""
+"18.12.2025";"Overføring Innland  1497 Eline Julianne k Linde Digitale Fotorammer ";"19.12.2025";"";320
+"18.12.2025";"Overføring Innland  3470 Bjørn André Krukhaug Digital Fotoramme ";"18.12.2025";"";160
+"18.12.2025";"Overføring Innland  1510 Kristina Krukhaug Linde Digitale Fotorammer ";"18.12.2025";"";320
+"18.12.2025";"Overføring  89030381042 Isak Krukhaug Aspelie Tpp: Vipps ";"19.12.2025";"";320
+"16.12.2025";"Visa  100021  Vipps:storytel ";"17.12.2025";219;""
+"16.12.2025";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 16.12 kl. 20.31 ";"17.12.2025";816.2;""
+"16.12.2025";"Kontoregulering  206 Mobil Overføring  ";"17.12.2025";"";816
+"16.12.2025";"Varekjøp Kiwi 242 Nærose Åsmarkvegen Nærose Dato 16.12 kl. 10.43 ";"16.12.2025";27.9;""
+"15.12.2025";"Varekjøp Extra Lena Hovdesvingen Lena Dato 15.12 kl. 15.34 ";"16.12.2025";100.6;""
+"15.12.2025";"Kontoregulering  205 Mobil Overføring  ";"16.12.2025";"";101
+"14.12.2025";"Visa  100021  Oslo Storbylege ";"15.12.2025";138;""
+"14.12.2025";"Varekjøp Bunnpris Storo Vitaminveien Oslo Dato 14.12 kl. 12.32 ";"15.12.2025";61.8;""
+"13.12.2025";"Varekjøp Esso Myklegard Ånestadvegen Løten Dato 13.12 kl. 20.02 ";"15.12.2025";94.9;""
+"12.12.2025";"Overføring Innland  5387 Veslemøy Linde Vy ";"15.12.2025";"";251
+"12.12.2025";"Overføring Innland  1493 Eline Julianne k Linde Togbillett ";"15.12.2025";"";240
+"10.12.2025";"Visa  100022  Nok 79,00 Apple.com/bill ";"11.12.2025";79;""
+"09.12.2025";"Visa  100021  Vipps Norsk Tipping ";"10.12.2025";200;""
+"09.12.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 09.12 kl. 16.54 ";"10.12.2025";465.9;""
+"09.12.2025";"Kontoregulering  204 Mobil Overføring  ";"10.12.2025";"";466
+"08.12.2025";"Visa  100021  Zettle_:geta Bakeriproduk ";"09.12.2025";49;""
+"08.12.2025";"Varekjøp Clas Ohl 2839 Jernbanesv.6 Gjøvik Dato 08.12 kl. 15.14 ";"09.12.2025";399.8;""
+"08.12.2025";"Overføring Innland  1400 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"08.12.2025";550;""
+"08.12.2025";"Overføring Innland  783 Kasper Haugestøl Gave Camilla ";"08.12.2025";"";317
+"08.12.2025";"Overføring Innland  784 Kasper Haugestøl Gave Isak ";"08.12.2025";"";700
+"08.12.2025";"Overføring Innland  782 Kasper Haugestøl Gave Karoline ";"08.12.2025";"";367
+"08.12.2025";"Overføring Innland  785 Kasper Haugestøl  ";"08.12.2025";"";47
+"06.12.2025";"Varekjøp Extra Kallerud Stampeveien Hunnda Dato 06.12 kl. 17.56 ";"08.12.2025";635.3;""
+"06.12.2025";"Kontoregulering  203 Mobil Overføring  ";"08.12.2025";"";635
+"05.12.2025";"Visa  100022  Nok 17,00 Apple.com/bill ";"08.12.2025";17;""
+"04.12.2025";"Visa  100122  Nok 129,00 Netflix.com ";"04.12.2025";129;""
+"03.12.2025";"Visa  100022  Nok 109,00 Disney Plus ";"04.12.2025";109;""
+"03.12.2025";"Varekjøp Rema Hunndalen Celluloseveg Hunnda Dato 03.12 kl. 15.08 ";"04.12.2025";226.4;""
+"02.12.2025";"Visa  100021  Vipps:klarna ";"05.12.2025";358;""
+"02.12.2025";"Overføring Innland  1482 Eline Julianne k Linde Julegave Til Celine Og Ketil ";"03.12.2025";"";235
+"02.12.2025";"Overføring Innland  1501 Kristina Krukhaug Linde Gave Celine Og Ketil ";"03.12.2025";"";235
+"02.12.2025";"Varekjøp Rusta Gjøvik Kasper Andre Gjøvik Dato 02.12 kl. 14.27 ";"02.12.2025";693.6;""
+"01.12.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 01.12 kl. 21.13 ";"02.12.2025";102.6;""
+"01.12.2025";"Varekjøp Rema Kirkeby Ringvegen 5 Gjøvik Dato 01.12 kl. 17.00 ";"02.12.2025";646.6;""
+"01.12.2025";"Kontoregulering  202 Mobil Overføring  ";"02.12.2025";"";647
+"01.12.2025";"Overføring Innland  1399 Kristina Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"01.12.2025";1558;""
+"01.12.2025";"Kontoregulering  1398 Mobil Overføring  ";"01.12.2025";3000;""
+"01.12.2025";"Giro  755455 Sofie Krukhaug Linde  ";"01.12.2025";"";5000
+"01.12.2025";"Giro  203297430 Helfo  ";"01.12.2025";"";703.4
+"30.11.2025";"Varekjøp Matkroken Sangn Vestre Toten Bøverb Dato 30.11 kl. 16.17 ";"01.12.2025";63.8;""
+"27.11.2025";"Visa  100021  Kapp Legesenter ";"28.11.2025";235;""
+"27.11.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 27.11 kl. 15.25 ";"28.11.2025";235.2;""
+"27.11.2025";"Varekjøp Apotek 1 Storgt. 49 Raufoss Dato 27.11 kl. 19.57 ";"28.11.2025";398.55;""
+"27.11.2025";"Kontoregulering  718 Mobil Overføring  ";"27.11.2025";"";1000
+"26.11.2025";"Giro  1397 Credicare AS Betaling Tpp: Neonomics AS";"26.11.2025";235;""
+"25.11.2025";"Visa  100021  Vipps:behandling v n Av e ";"26.11.2025";700;""
+"25.11.2025";"Kontoregulering  716 Mobil Overføring  ";"26.11.2025";"";700
+"25.11.2025";"Kontoregulering  717 Mobil Overføring  ";"26.11.2025";"";300
+"25.11.2025";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 25.11 kl. 14.45 ";"25.11.2025";125.8;""
+"24.11.2025";"Kontoregulering  1396 Mobil Overføring  ";"25.11.2025";1000;""
+"24.11.2025";"Overføring Innland  1496 Kristina Krukhaug Linde  ";"25.11.2025";"";1000
+"22.11.2025";"Visa  100022  Nok 39,00 Apple.com/bill ";"24.11.2025";39;""
+"22.11.2025";"Varekjøp Extra Raufoss Storgata 49 Raufoss Dato 22.11 kl. 10.57 ";"24.11.2025";313.25;""
+"22.11.2025";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 22.11 kl. 14.03 ";"24.11.2025";60.83;""
+"21.11.2025";"Varekjøp Expressenpizza Storgata 37 Raufos Dato 21.11 kl. 15.47 ";"24.11.2025";275;""
+"20.11.2025";"Varekjøp Jysk Gjøvik N56 Kallerudlia Gjøvik Dato 20.11 kl. 18.43 ";"21.11.2025";550;""
+"20.11.2025";"Giro  1395 Mova AS Avtalegiro Invoice 1669460";"20.11.2025";299;""
+"16.11.2025";"Visa  100022  Nok 59,00 Apple.com/bill ";"17.11.2025";59;""
+"16.11.2025";"Visa  100121  Vipps:storytel ";"17.11.2025";219;""
+"16.11.2025";"Varekjøp Nebbenes Kro Nord 2074 Eidsvoll Dato 16.11 kl. 14.15 ";"17.11.2025";463;""
+"16.11.2025";"Overføring Innland  5353 Veslemøy Linde  ";"17.11.2025";"";500
+"16.11.2025";"Overføring  89053250744 Veslemøy Linde Tpp: Vipps ";"17.11.2025";"";600
+"16.11.2025";"Overføring  89052727986 Veslemøy Linde Tpp: Vipps ";"17.11.2025";"";500
+"15.11.2025";"Varekjøp 15 Plantasjen Huntonstrand Gjøvik Dato 15.11 kl. 12.40 ";"17.11.2025";299.85;""
+"15.11.2025";"Varekjøp Rema Raufoss No Storgata 71 Raufos Dato 15.11 kl. 08.30 ";"17.11.2025";109.6;""
+"15.11.2025";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 15.11 kl. 08.36 ";"17.11.2025";109.9;""
+"15.11.2025";"Varekjøp Rema Raufoss No Storgata 71 Raufos Dato 15.11 kl. 17.51 ";"17.11.2025";191.1;""
+"13.11.2025";"Visa  100022  Nok 59,00 Apple.com/bill ";"14.11.2025";59;""
+"13.11.2025";"Varekjøp Rema Lena Rådhusgt 27 Lena Dato 13.11 kl. 16.12 ";"14.11.2025";275.3;""
+"13.11.2025";"Varekjøp Apotek 1 Lena Rådhusgata 2 Lena Dato 13.11 kl. 16.07 ";"14.11.2025";175.6;""
+"13.11.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 13.11 kl. 07.33 ";"13.11.2025";85.8;""
+"12.11.2025";"Varekjøp Biltema Avd 226 Rambekkvn 2 Gjøvik Dato 12.11 kl. 19.09 ";"13.11.2025";64.8;""
+"12.11.2025";"Overføring Innland  1394 Kristina Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"13.11.2025";42;""
+"11.11.2025";"Overføring Innland  1393 Veslemøy Linde Betaling Tpp: Vipps Mobilepay AS";"12.11.2025";2000;""
+"11.11.2025";"Overføring Innland  1486 Kristina Krukhaug Linde  ";"11.11.2025";"";2000
+"11.11.2025";"Overføring  89041932615 Veslemøy Linde Tpp: Vipps ";"12.11.2025";"";2000
+"10.11.2025";"Visa  100022  Nok 79,00 Apple.com/bill ";"12.11.2025";79;""
+"10.11.2025";"Varekjøp Rema Dokka Storgata 52 Dokka Dato 10.11 kl. 14.11 ";"10.11.2025";43.3;""
+"10.11.2025";"Overføring  89039350465 Veslemøy Linde Tpp: Vipps ";"11.11.2025";"";20
+"08.11.2025";"Visa  100021  Vipps Norsk Tipping ";"10.11.2025";100;""
+"08.11.2025";"Overføring Innland  778 Kasper Haugestøl  ";"10.11.2025";"";55
+"08.11.2025";"Overføring  89034774663 Veslemøy Linde Tpp: Vipps ";"10.11.2025";"";180
+"08.11.2025";"Overføring  4331525945 Trym Slåtsveen Kristiansen Tpp: Vipps Mobilepay AS ";"10.11.2025";55;""
+"04.11.2025";"Visa  100122  Nok 129,00 Netflix.com ";"05.11.2025";129;""
+"03.11.2025";"Visa  100022  Nok 99,00 Disney Plus ";"05.11.2025";99;""
+"31.10.2025";"Overføring Innland  5368 Veslemøy Linde  ";"31.10.2025";"";130
+"31.10.2025";"Overføring Innland  5367 Veslemøy Linde Parkering ";"31.10.2025";"";50
+"30.10.2025";"Overføring Innland  1391 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"31.10.2025";153;""
+"28.10.2025";"Overføring Innland  776 Kasper Haugestøl  ";"28.10.2025";"";199
+"25.10.2025";"Varekjøp Heidal Ysteri Ysterivegen Heidal Dato 25.10 kl. 14.50 ";"27.10.2025";256;""
+"25.10.2025";"Overføring Innland  1458 Eline Julianne k Linde Heidalsprim ";"27.10.2025";"";128
+"24.10.2025";"Overføring Innland  1389 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"27.10.2025";398;""
+"23.10.2025";"Visa  100021  Vipps:www.apotek1.no ";"27.10.2025";537.3;""
+"23.10.2025";"Varekjøp Rema Raufoss Storgaten 7 Raufoss Dato 23.10 kl. 21.07 ";"24.10.2025";374.2;""
+"22.10.2025";"Overføring Innland  1388 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"23.10.2025";50;""
+"22.10.2025";"Visa  100022  Nok 39,00 Apple.com/bill ";"22.10.2025";39;""
+"22.10.2025";"Overføring  31799085243 Ingvild Storsveen Tpp: Vipps ";"22.10.2025";"";1000
+"21.10.2025";"Omkostninger  17550731 Plattformhonorar Fond - Andre Kv  ";"14.10.2025";1.54;""
+"20.10.2025";"Giro  1387 Mova AS Avtalegiro Invoice 1598307";"20.10.2025";299;""
+"18.10.2025";"Overføring  89091240145 Veslemøy Linde Tpp: Vipps ";"20.10.2025";"";543
+"18.10.2025";"Overføring  89091208468 Veslemøy Linde Tpp: Vipps ";"20.10.2025";"";420
+"17.10.2025";"Varekjøp Kicks 695 Cc Ha Vangsvegen 6 Hamar Dato 17.10 kl. 19.20 ";"20.10.2025";255.2;""
+"17.10.2025";"Varekjøp New Yorker Hama Vangsvegen 1 Hamar Dato 17.10 kl. 18.53 ";"20.10.2025";209;""
+"16.10.2025";"Overføring Innland  5341 Veslemøy Linde  ";"16.10.2025";"";500
+"14.10.2025";"Varekjøp Ark Cc Gjøvik Jernbanesv.6 Gjøvik Dato 14.10 kl. 19.18 ";"15.10.2025";129;""
+"13.10.2025";"Visa  100022  Nok 59,00 Apple.com/bill ";"14.10.2025";59;""
+"10.10.2025";"Visa  100022  Nok 79,00 Apple.com/bill ";"13.10.2025";79;""
+"08.10.2025";"Varekjøp Extra Raufoss Storgata 49 Raufoss Dato 08.10 kl. 18.13 ";"09.10.2025";69.5;""
+"07.10.2025";"Visa  100021  Vipps Norsk Tipping ";"08.10.2025";200;""
+"07.10.2025";"Varekjøp Rema Raufoss Storgaten 7 Raufoss Dato 07.10 kl. 19.06 ";"08.10.2025";83.7;""
+"07.10.2025";"Overføring Innland  770 Kasper Haugestøl Moner ";"08.10.2025";"";25
+"07.10.2025";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 07.10 kl. 09.43 ";"07.10.2025";61.9;""
+"06.10.2025";"Varekjøp St1 Dokka Storgata 54 Dokka Dato 06.10 kl. 13.41 ";"06.10.2025";79;""
+"04.10.2025";"Visa  100122  Nok 129,00 Netflix.com ";"06.10.2025";129;""
+"04.10.2025";"Overføring Innland  1386 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"06.10.2025";18.62;""
+"04.10.2025";"Overføring  4293209160 Trym Slåtsveen Kristiansen Tpp: Vipps Mobilepay AS ";"06.10.2025";129;""
+"04.10.2025";"Overføring  4293046337 Øivind Rogne Tpp: Vipps Mobilepay AS ";"06.10.2025";160;""
+"03.10.2025";"Visa  100022  Nok 99,00 Disney Plus ";"06.10.2025";99;""
+"03.10.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 03.10 kl. 19.47 ";"06.10.2025";70.8;""
+"03.10.2025";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 03.10 kl. 12.42 ";"03.10.2025";69.9;""
+"02.10.2025";"Varekjøp Rema Raufoss No Storgata 71 Raufos Dato 02.10 kl. 09.49 ";"02.10.2025";17.8;""
+"02.10.2025";"Overføring  4291475467 Veslemøy Linde Tpp: Vipps Mobilepay AS ";"03.10.2025";50;""
+"01.10.2025";"Varekjøp Normal Gjøvik Jernbanesvin Gjøvik Dato 01.10 kl. 19.04 ";"02.10.2025";541;""
+"01.10.2025";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 01.10 kl. 13.29 ";"01.10.2025";30;""
+"01.10.2025";"Giro  744932 Sofie Krukhaug Linde  ";"01.10.2025";"";2000
+"30.09.2025";"Varekjøp Extra Kallerud Stampeveien Hunnda Dato 30.09 kl. 16.39 ";"01.10.2025";86.3;""
+"30.09.2025";"Varekjøp Rusta Gjøvik Kasper Andre Gjøvik Dato 30.09 kl. 16.26 ";"01.10.2025";396.8;""
+"30.09.2025";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 30.09 kl. 14.04 ";"30.09.2025";45.9;""
+"30.09.2025";"Overføring  89050591664 Veslemøy Linde Tpp: Vipps ";"30.09.2025";"";500
+"29.09.2025";"Overføring Innland  1382 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"30.09.2025";140;""
+"29.09.2025";"Overføring Innland  767 Kasper Haugestøl Mellk Monster ";"30.09.2025";"";50
+"29.09.2025";"Varekjøp Buddy Raufoss Storgt.41-43 Raufoss Dato 29.09 kl. 13.29 ";"29.09.2025";119;""
+"29.09.2025";"Varekjøp 15 Plantasjen Huntonstrand Gjøvik Dato 29.09 kl. 14.40 ";"29.09.2025";329.8;""
+"29.09.2025";"Kontoregulering  715 Mobil Overføring  ";"29.09.2025";"";600
+"27.09.2025";"Varekjøp Extra Raufoss Storgata 49 Raufoss Dato 27.09 kl. 12.40 ";"29.09.2025";321.3;""
+"26.09.2025";"Visa  100022  Nok 80,00 Matchi - 102630470 ";"29.09.2025";80;""
+"26.09.2025";"Varekjøp Clas Ohl 2839 Jernbanesv.6 Gjøvik Dato 26.09 kl. 18.58 ";"29.09.2025";449.9;""
+"26.09.2025";"Kontoregulering  714 Mobil Overføring  ";"29.09.2025";"";700
+"24.09.2025";"Varekjøp Rema Dokka Storgata 52 Dokka Dato 24.09 kl. 11.34 ";"24.09.2025";27.9;""
+"22.09.2025";"Visa  100022  Nok 39,00 Apple.com/bill ";"22.09.2025";39;""
+"22.09.2025";"Varekjøp Extra Lena Hovdesvingen Lena Dato 22.09 kl. 07.54 ";"22.09.2025";119.7;""
+"21.09.2025";"Overføring  5031720668 Trym Slåtsveen Kristiansen Tpp: Vipps ";"22.09.2025";"";56
+"20.09.2025";"Varekjøp Lena 620 Silogata Lena Dato 20.09 kl. 17.49 ";"22.09.2025";163.9;""
+"20.09.2025";"Varekjøp Rema Lena Rådhusgt 27 Lena Dato 20.09 kl. 18.04 ";"22.09.2025";198.7;""
+"20.09.2025";"Overføring Innland  1435 Eline Julianne k Linde Var Dette Riktig Person Og Sum ";"22.09.2025";"";56
+"20.09.2025";"Overføring Innland  1455 Kristina Krukhaug Linde Kino ";"22.09.2025";"";56
+"20.09.2025";"Overføring Innland  1798 Marcus Napstad  ";"22.09.2025";"";60
+"20.09.2025";"Overføring Innland  1381 Kristina Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"22.09.2025";170;""
+"20.09.2025";"Overføring Innland  764 Kasper Haugestøl  ";"22.09.2025";"";56
+"20.09.2025";"Giro  1380 Mova AS Avtalegiro Invoice 1545236";"22.09.2025";299;""
+"19.09.2025";"Overføring Innland  5328 Veslemøy Linde  ";"19.09.2025";"";500
+"17.09.2025";"Varekjøp Rema Lena Rådhusgt 27 Lena Dato 17.09 kl. 09.46 ";"17.09.2025";61.39;""
+"15.09.2025";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 15.09 kl. 16.24 ";"16.09.2025";264.36;""
+"15.09.2025";"Varekjøp Apotek 1 Storgt. 49 Raufoss Dato 15.09 kl. 16.12 ";"16.09.2025";133.9;""
+"15.09.2025";"Varekjøp Normal Raufoss Storgata 49, Raufos Dato 15.09 kl. 16.09 ";"16.09.2025";111;""
+"15.09.2025";"Overføring Innland  1451 Kristina Krukhaug Linde Is ";"16.09.2025";"";70
+"14.09.2025";"Overføring  82215708243 Glyza Ann Doretta Tolentino Inong Tpp: Vipps ";"15.09.2025";"";850
+"13.09.2025";"Visa  100122  Nok 79,00 Apple.com/bill ";"15.09.2025";79;""
+"13.09.2025";"Visa  100022  Nok 59,00 Apple.com/bill ";"15.09.2025";59;""
+"13.09.2025";"Overføring Innland  5339 Veslemøy Linde Bukett ";"15.09.2025";"";200
+"10.09.2025";"Visa  100022  Nok 59,00 Apple.com/bill ";"11.09.2025";59;""
+"08.09.2025";"Visa  100021  Vipps:get Inspired ";"09.09.2025";278;""
+"07.09.2025";"Visa  100022  Nok 67,50 Matchi - 101719869 ";"08.09.2025";67.5;""
+"06.09.2025";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 06.09 kl. 16.22 ";"08.09.2025";272.77;""
+"06.09.2025";"Varekjøp Elkjøp Gjøvik a Kasper Andre Gjøvik Dato 06.09 kl. 14.12 ";"08.09.2025";79;""
+"06.09.2025";"Overføring Innland  5338 Veslemøy Linde Vaskemiddel ";"08.09.2025";"";200
+"06.09.2025";"Overføring Innland  758 Kasper Haugestøl Snikers Og Monster ";"08.09.2025";"";50
+"05.09.2025";"Overføring Innland  1447 Kristina Krukhaug Linde Hårspray ";"08.09.2025";"";90
+"05.09.2025";"Overføring Innland  756 Kasper Haugestøl Monster i Går Ig i Dag ";"05.09.2025";"";50
+"04.09.2025";"Visa  100122  Nok 129,00 Netflix.com ";"04.09.2025";129;""
+"03.09.2025";"Visa  100022  Nok 99,00 Disney Plus ";"04.09.2025";99;""
+"01.09.2025";"Overføring Innland  1427 Eline Julianne k Linde Bunnpris ";"02.09.2025";"";198
+"01.09.2025";"Overføring Innland  1426 Eline Julianne k Linde Europris ";"02.09.2025";"";226
+"01.09.2025";"Kontoregulering  713 Mobil Overføring  ";"01.09.2025";"";300
+"01.09.2025";"Overføring Innland  1379 Eline Julianne Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"01.09.2025";200;""
+"01.09.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 01.09 kl. 08.42 ";"01.09.2025";70.8;""
+"31.08.2025";"Varekjøp Snap Food Trondheimsve Gjøvik Dato 31.08 kl. 00.38 ";"01.09.2025";40;""
+"30.08.2025";"Varekjøp Rusta Gjøvik Kasper Andre Gjøvik Dato 30.08 kl. 11.36 ";"01.09.2025";556.7;""
+"30.08.2025";"Varekjøp Hygge Gjøvik AS Storgata 3 Gjøvik Dato 30.08 kl. 23.52 ";"01.09.2025";298;""
+"30.08.2025";"Varekjøp Heim Gjøvik Hunnsvegen 1 Gjøvik Dato 30.08 kl. 23.20 ";"01.09.2025";159;""
+"30.08.2025";"Varekjøp Sunkost Cc Gjøv Jernbanesvin Gjøvik Dato 30.08 kl. 12.00 ";"01.09.2025";119;""
+"30.08.2025";"Overføring Innland  1422 Eline Julianne k Linde Byen Låne ";"01.09.2025";"";200
+"30.08.2025";"Overføring Innland  1790 Marcus Napstad Gave ";"01.09.2025";"";200
+"30.08.2025";"Overføring  5084804778 Trym Slåtsveen Kristiansen Tpp: Vipps ";"01.09.2025";"";120
+"29.08.2025";"Visa  100022  Nok 345,00 Caiacosmetics.no ";"01.09.2025";345;""
+"29.08.2025";"Renter   ";"01.09.2025";1.06;""
+"29.08.2025";"Overføring Innland  1378 Marcus Napstad Betaling Tpp: Vipps Mobilepay AS";"01.09.2025";10;""
+"28.08.2025";"Visa  100131  Vipps:vipps:geir Jonny Aa ";"29.08.2025";"";600
+"28.08.2025";"Visa  100021  Vipps:klarna ";"29.08.2025";958.95;""
+"28.08.2025";"Varekjøp Extra Lena Hovdesvingen Lena Dato 28.08 kl. 15.34 ";"29.08.2025";138.2;""
+"28.08.2025";"Overføring Innland  25082852817 Agria Dyreforsikring  ";"28.08.2025";"";1613
+"27.08.2025";"Varekjøp Rema Raufoss Storgaten 7 Raufoss Dato 27.08 kl. 16.55 ";"28.08.2025";47.9;""
+"27.08.2025";"Varekjøp Extra Lena Hovdesvingen Lena Dato 27.08 kl. 12.01 ";"27.08.2025";67.8;""
+"25.08.2025";"Varekjøp Extra Lena Hovdesvingen Lena Dato 25.08 kl. 15.56 ";"26.08.2025";83.7;""
+"25.08.2025";"Varekjøp Rema Raufoss No Storgata 71 Raufos Dato 25.08 kl. 09.54 ";"25.08.2025";107.7;""
+"24.08.2025";"Overføring  4247286236 Trym Slåtsveen Kristiansen Mcern Tpp: Vipps Mobilepay AS";"25.08.2025";115;""
+"23.08.2025";"Overføring Innland  1418 Eline Julianne k Linde Tur Åt Hedale ";"25.08.2025";"";200
+"23.08.2025";"Overføring Innland  1441 Kristina Krukhaug Linde Penger ";"25.08.2025";"";200
+"23.08.2025";"Overføring Innland  1376 Eline Julianne Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"25.08.2025";105;""
+"22.08.2025";"Visa  100022  Nok 39,00 Apple.com/bill ";"25.08.2025";39;""
+"21.08.2025";"Varekjøp 15 Plantasjen Huntonstrand Gjøvik Dato 21.08 kl. 19.27 ";"22.08.2025";249.9;""
+"21.08.2025";"Varekjøp Kiwi 234 Smesta Sigrid Undse Lilleh Dato 21.08 kl. 14.52 ";"21.08.2025";27.9;""
+"20.08.2025";"Giro  1375 Mova AS Avtalegiro Invoice 933110";"20.08.2025";299;""
+"19.08.2025";"Varekjøp Spar Lena Valsetvegen Lena Dato 19.08 kl. 16.26 ";"20.08.2025";103.8;""
+"16.08.2025";"Overføring Innland  5322 Veslemøy Linde  ";"18.08.2025";"";500
+"14.08.2025";"Overføring Innland  1435 Kristina Krukhaug Linde  ";"15.08.2025";"";190
+"13.08.2025";"Visa  100222  Nok 59,00 Apple.com/bill ";"14.08.2025";59;""
+"12.08.2025";"Visa  100122  Nok 941,00 Zalando Payments g ";"14.08.2025";941;""
+"12.08.2025";"Visa  100022  Nok 671,52 Nakd ";"14.08.2025";671.52;""
+"11.08.2025";"Varekjøp Kiwi 207 Kapp Mjøsvegen 51 Kapp Dato 11.08 kl. 15.11 ";"12.08.2025";62.8;""
+"10.08.2025";"Visa  100122  Nok 79,00 Apple.com/bill ";"11.08.2025";79;""
+"10.08.2025";"Visa  100022  Nok 249,00 Apple.com/bill ";"11.08.2025";249;""
+"08.08.2025";"Varekjøp Kiwi 207 Kapp Mjøsvegen 51 Kapp Dato 08.08 kl. 22.28 ";"11.08.2025";115.72;""
+"07.08.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 07.08 kl. 07.40 ";"07.08.2025";85.8;""
+"05.08.2025";"Varekjøp Rema Raufoss No Storgata 71 Raufos Dato 05.08 kl. 19.41 ";"06.08.2025";231.6;""
+"05.08.2025";"Overføring Innland  748 Kasper Haugestøl Hihi ";"06.08.2025";"";1000
+"05.08.2025";"Overføring Innland  746 Kasper Haugestøl Gave Til Kris. Monster Og Godteri ";"06.08.2025";"";108
+"04.08.2025";"Varekjøp Kid 47019 Gjøvi Jernbanesvin Gjøvik Dato 04.08 kl. 20.26 ";"05.08.2025";45;""
+"04.08.2025";"Visa  100122  Nok 129,00 Netflix.com ";"04.08.2025";129;""
+"04.08.2025";"Overføring Innland  25080477974 Agria Dyreforsikring  ";"04.08.2025";"";678
+"03.08.2025";"Visa  100022  Nok 99,00 Disney Plus ";"04.08.2025";99;""
+"01.08.2025";"Overføring Innland  1397 Eline Julianne k Linde Gave Til Kris. Monster Og Godteri ";"01.08.2025";"";108
+"01.08.2025";"Overføring Innland  1428 Kristina Krukhaug Linde Ting Til Drinker ";"01.08.2025";"";500
+"01.08.2025";"Overføring  5021369070 Trym Slåtsveen Kristiansen Tpp: Vipps ";"01.08.2025";"";108
+"31.07.2025";"Overføring Innland  1394 Eline Julianne k Linde Bk ";"01.08.2025";"";98
+"31.07.2025";"Overføring Innland  744 Kasper Haugestøl Bk ";"01.08.2025";"";250
+"28.07.2025";"Visa  100021  Vipps:bubbleroom ";"30.07.2025";680;""
+"28.07.2025";"Varekjøp Circle k Mjøsst Bryggevegen Gjøvik Dato 28.07 kl. 20.26 ";"29.07.2025";52.8;""
+"28.07.2025";"Overføring Innland  1373 Elisabeth Haugestøl Betaling Tpp: Vipps Mobilepay AS";"28.07.2025";1100;""
+"27.07.2025";"Varekjøp Shell Fokserød Fokserødveie Sandef Dato 27.07 kl. 11.41 ";"28.07.2025";114;""
+"26.07.2025";"Varekjøp Spar Kullboden Havnegaten 1 Holmes Dato 26.07 kl. 13.22 ";"28.07.2025";272.52;""
+"26.07.2025";"Varekjøp Aske Investment . Holmestrand Dato 26.07 kl. 12.56 ";"28.07.2025";69;""
+"26.07.2025";"Overføring  4215669347 Emil Krukhaug Asiamat Tpp: Vipps Mobilepay AS";"28.07.2025";134;""
+"25.07.2025";"Varekjøp Normal Tønsberg Jernbanegate Tønsbe Dato 25.07 kl. 19.07 ";"28.07.2025";639;""
+"25.07.2025";"Varekjøp Rema Toppen Hvittingfoss Holmestran Dato 25.07 kl. 19.43 ";"28.07.2025";125.6;""
+"25.07.2025";"Varekjøp Apotek 1 Hvalen Fayesgt.7 Tønsberg Dato 25.07 kl. 18.53 ";"28.07.2025";457;""
+"25.07.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 25.07 kl. 13.32 ";"25.07.2025";24.9;""
+"24.07.2025";"Visa  100222  Sek 129,90 Godishuset Valutakurs: 1,0906";"25.07.2025";141.68;""
+"24.07.2025";"Visa  100122  Sek 15,00 Nyx:solkattenfastig Valutakurs: 1,0906";"25.07.2025";16.36;""
+"24.07.2025";"Visa  100022  Dkk 40,00 Mv Copenhagen Valutakurs: 1,6322";"25.07.2025";65.29;""
+"24.07.2025";"Overføring Innland  1371 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"24.07.2025";59.5;""
+"24.07.2025";"Overføring Innland  1385 Eline Julianne k Linde  ";"24.07.2025";"";208
+"24.07.2025";"Overføring Innland  741 Kasper Haugestøl Danskebåtenfra Tyskland ";"24.07.2025";"";512.14
+"24.07.2025";"Overføring Innland  742 Kasper Haugestøl  ";"24.07.2025";"";208
+"24.07.2025";"Overføring Innland  1384 Eline Julianne k Linde Danskebåtenfra Tyskland ";"24.07.2025";"";512.14
+"24.07.2025";"Overføring  5005890468 Trym Slåtsveen Kristiansen Tpp: Vipps ";"24.07.2025";"";208
+"24.07.2025";"Overføring  5005696834 Trym Slåtsveen Kristiansen Tpp: Vipps ";"24.07.2025";"";512.14
+"23.07.2025";"Visa  100022  Eur 96,77 Interspar Fil. 8410 Valutakurs: 12,1634";"24.07.2025";1177.06;""
+"23.07.2025";"Overføring Innland  1367 Sofie Krukhaug Linde Mobil Betaling ";"24.07.2025";10000;""
+"23.07.2025";"Overføring Innland  1368 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"24.07.2025";39.52;""
+"23.07.2025";"Overføring Innland  1369 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"24.07.2025";237.69;""
+"23.07.2025";"Overføring Innland  1370 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"24.07.2025";93.42;""
+"23.07.2025";"Overføring  89004631906 Isak Krukhaug Aspelie Tpp: Vipps ";"23.07.2025";"";950
+"23.07.2025";"Overføring Innland  157965752 Nav  ";"23.07.2025";"";12085
+"22.07.2025";"Visa  100122  Nok 39,00 Apple.com/bill ";"22.07.2025";39;""
+"22.07.2025";"Overføring Innland  1365 Kristina Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"22.07.2025";1031;""
+"21.07.2025";"Visa  100022  Eur 41,93 Kaufland Pm 6030 Valutakurs: 12,2043";"22.07.2025";511.73;""
+"21.07.2025";"Overføring Innland  736 Kasper Haugestøl  ";"21.07.2025";"";30
+"21.07.2025";"Overføring Innland  1364 Marcus Napstad Betaling Tpp: Vipps Mobilepay AS";"21.07.2025";127.8;""
+"20.07.2025";"Overføring Innland  1363 Marcus Napstad Betaling Tpp: Vipps Mobilepay AS";"21.07.2025";50;""
+"20.07.2025";"Giro  1354 Mova AS Avtalegiro Invoice 883367";"21.07.2025";299;""
+"19.07.2025";"Visa  100422  Eur 5,00 Slasticarna Azuro1 Valutakurs: 12,2040";"21.07.2025";61.02;""
+"19.07.2025";"Visa  100322  Eur 15,00 Manufacture Shop Valutakurs: 12,2040";"21.07.2025";183.06;""
+"19.07.2025";"Visa  100222  Eur 5,50 Caffe Bar Vanilla Valutakurs: 12,2036";"21.07.2025";67.12;""
+"19.07.2025";"Visa  100122  Eur 24,99 New Yorker Croatia Valutakurs: 12,2044";"21.07.2025";304.99;""
+"19.07.2025";"Overføring Innland  1362 Marcus Napstad Betaling Tpp: Vipps Mobilepay AS";"21.07.2025";244;""
+"18.07.2025";"Visa  100022  Eur 14,42 Kaufland Pm 6030 Valutakurs: 12,2288";"21.07.2025";176.34;""
+"18.07.2025";"Overføring Innland  1372 Eline Julianne k Linde Syltetøy ";"21.07.2025";"";30
+"17.07.2025";"Visa  100122  Eur 63,96 Supermarket Lucija Valutakurs: 12,2084";"18.07.2025";780.85;""
+"17.07.2025";"Overføring Innland  1360 Sofie Krukhaug Linde Mobil Betaling ";"17.07.2025";10000;""
+"17.07.2025";"Overføring Innland  1413 Kristina Krukhaug Linde Monster ";"17.07.2025";"";35
+"17.07.2025";"Overføring Innland  1359 Kristina Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"17.07.2025";35;""
+"17.07.2025";"Overføring  4206458456 Trym Slåtsveen Kristiansen Mat i Går Kvæll Tpp: Vipps Mobilepay AS";"17.07.2025";200.84;""
+"17.07.2025";"Overføring Innland  157058727 Nav  ";"17.07.2025";"";13428
+"16.07.2025";"Visa  100022  Eur 12,89 Plodine Supermarket Valutakurs: 12,1528";"18.07.2025";156.65;""
+"16.07.2025";"Visa  100322  Eur 15,00 Manufacture Shop Valutakurs: 12,1526";"17.07.2025";182.29;""
+"16.07.2025";"Visa  100222  Eur 10,00 Slasticarna Azuro1 Valutakurs: 12,1520";"17.07.2025";121.52;""
+"16.07.2025";"Visa  100122  Eur 13,00 King Kebap Burgers Valutakurs: 12,1523";"17.07.2025";157.98;""
+"15.07.2025";"Visa  100022  Eur 14,37 Spar Valutakurs: 12,1245";"17.07.2025";174.23;""
+"15.07.2025";"Visa  100222  Eur 7,99 New Yorker Valutakurs: 12,1239";"16.07.2025";96.87;""
+"15.07.2025";"Visa  100122  Eur ,69 Automat Bk World Ends Valutakurs: 12,1159";"16.07.2025";8.36;""
+"15.07.2025";"Visa  100022  Eur ,69 Nya:hering Sanikonzep Valutakurs: 12,1159";"16.07.2025";8.36;""
+"15.07.2025";"Overføring Innland  1358 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"15.07.2025";340;""
+"15.07.2025";"Overføring Innland  1357 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"15.07.2025";322.5;""
+"14.07.2025";"Visa  100122  Eur 4,05 Shell Obn1214 Valutakurs: 12,1135";"15.07.2025";49.06;""
+"14.07.2025";"Kontoregulering  712 Mobil Overføring  ";"15.07.2025";"";600
+"14.07.2025";"Overføring Innland  1355 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"15.07.2025";80;""
+"14.07.2025";"Overføring Innland  1356 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"15.07.2025";23;""
+"14.07.2025";"Overføring Innland  1353 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"15.07.2025";27;""
+"14.07.2025";"Overføring Innland  1352 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"14.07.2025";140;""
+"14.07.2025";"Overføring Innland  1363 Eline Julianne k Linde  ";"14.07.2025";"";41
+"13.07.2025";"Visa  100022  Dkk 168,00 Crown Seaways Valutakurs: 1,6236";"15.07.2025";272.77;""
+"13.07.2025";"Visa  100022  Nok 59,00 Apple.com/bill ";"14.07.2025";59;""
+"13.07.2025";"Varekjøp Yx Reinsvoll 08 Reinsvoll Dato 13.07 kl. 10.13 ";"14.07.2025";49;""
+"13.07.2025";"Overføring Innland  1362 Eline Julianne k Linde  ";"14.07.2025";"";252
+"13.07.2025";"Overføring Innland  733 Kasper Haugestøl  ";"14.07.2025";"";324
+"13.07.2025";"Overføring Innland  734 Kasper Haugestøl Sjokola ";"14.07.2025";"";100
+"13.07.2025";"Overføring  5083646108 Trym Slåtsveen Kristiansen Tpp: Vipps ";"14.07.2025";"";340
+"11.07.2025";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 11.07 kl. 19.45 ";"14.07.2025";138.2;""
+"10.07.2025";"Visa  100122  Nok 79,00 Apple.com/bill ";"11.07.2025";79;""
+"10.07.2025";"Visa  100022  Nok 249,00 Apple.com/bill ";"11.07.2025";249;""
+"10.07.2025";"Varekjøp Kiwi 012 Raufos Storgata 68 Raufos Dato 10.07 kl. 22.01 ";"11.07.2025";75.8;""
+"10.07.2025";"Overføring Innland  3348 Bjørn André Krukhaug Snacks ";"11.07.2025";"";80
+"09.07.2025";"Overføring  89075004432 Veslemøy Linde Tpp: Vipps ";"10.07.2025";"";100
+"07.07.2025";"Overføring Innland  1351 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"07.07.2025";300;""
+"07.07.2025";"Varekjøp Cc Mat Gjøvik Jernbanesvin Gjøvik Dato 07.07 kl. 12.31 ";"07.07.2025";32.9;""
+"07.07.2025";"Varekjøp Normal Gjøvik Jernbanesvin Gjøvik Dato 07.07 kl. 12.17 ";"07.07.2025";54;""
+"07.07.2025";"Overføring Innland  731 Kasper Haugestøl Potsa ";"07.07.2025";"";300
+"06.07.2025";"Visa  100222  Nok 891,00 Zalando Payments g ";"08.07.2025";891;""
+"06.07.2025";"Visa  100121  Vipps:bubbleroom ";"08.07.2025";640;""
+"05.07.2025";"Visa  100021  Vipps:eurosko ";"08.07.2025";898;""
+"05.07.2025";"Visa  100021  Lyko.com/no ";"07.07.2025";539;""
+"05.07.2025";"Varekjøp Lindex 203 Jernbanes. 6 Gjøvik Dato 05.07 kl. 16.28 ";"07.07.2025";231.5;""
+"04.07.2025";"Varekjøp Little Eat 1603 Jernbanesv. Gjøvik Dato 04.07 kl. 14.07 ";"04.07.2025";459;""
+"04.07.2025";"Varekjøp Clas Ohl 2839 Jernbanesv.6 Gjøvik Dato 04.07 kl. 14.53 ";"04.07.2025";99.8;""
+"03.07.2025";"Visa  100122  Nok 129,00 Netflix.com ";"04.07.2025";129;""
+"03.07.2025";"Visa  100022  Nok 99,00 Disney Plus ";"04.07.2025";99;""
+"03.07.2025";"Varekjøp Cc Mat Hamar St Vangsveien 6 Hamar Dato 03.07 kl. 20.24 ";"04.07.2025";75.8;""
+"03.07.2025";"Overføring Innland  5317 Veslemøy Linde Hårføner ";"04.07.2025";"";100
+"03.07.2025";"Overføring Innland  1350 Kristina Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"04.07.2025";275;""
+"02.07.2025";"Varekjøp Rusta Gjøvik Kasper Andre Gjøvik Dato 02.07 kl. 19.13 ";"03.07.2025";1102.6;""
+"02.07.2025";"Varekjøp Frøken Strøken Storgata 49 Raufos Dato 02.07 kl. 13.46 ";"02.07.2025";602.95;""
+"01.07.2025";"Visa  100022  Nok 1318,00 Zalando Payments ";"03.07.2025";1318;""
+"01.07.2025";"Varekjøp Normal Gjøvik Jernbanesvin Gjøvik Dato 01.07 kl. 20.00 ";"02.07.2025";202;""
+"01.07.2025";"Varekjøp M.a.p.t 2.0 AS Celluloseveg Gjøvik Dato 01.07 kl. 19.39 ";"02.07.2025";540;""
+"01.07.2025";"Varekjøp Clas Ohl 2839 Jernbanesv.6 Gjøvik Dato 01.07 kl. 19.50 ";"02.07.2025";798;""
+"01.07.2025";"Giro  858618 Sofie Krukhaug Linde  ";"01.07.2025";"";10000
+"01.07.2025";"Overføring Innland  1400 Kristina Krukhaug Linde Sokker ";"01.07.2025";"";132
+"30.06.2025";"Visa  100021  Vipps:cubus AS ";"01.07.2025";398;""
+"30.06.2025";"Overføring Innland  1351 Eline Julianne k Linde Badesko ";"01.07.2025";"";132
+"30.06.2025";"Varekjøp Apotek 1 Lena Rådhusgata 2 Lena Dato 30.06 kl. 14.14 ";"30.06.2025";129;""
+"30.06.2025";"Varekjøp Kapp Legesenter . Kapp Dato 30.06 kl. 13.52 ";"30.06.2025";243;""
+"30.06.2025";"Varekjøp Apotek 1 Storgt. 49 Raufoss Dato 30.06 kl. 10.57 ";"30.06.2025";24.9;""
+"30.06.2025";"Overføring  4187114850 Isak Krukhaug Aspelie Tpp: Vipps Mobilepay AS ";"01.07.2025";100;""
+"28.06.2025";"Varekjøp Extra Gran Smiegata 3 Gran Dato 28.06 kl. 20.45 ";"30.06.2025";1435.37;""
+"28.06.2025";"Overføring Innland  1348 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"30.06.2025";74;""
+"27.06.2025";"Overføring Innland  1742 Marcus Napstad  ";"30.06.2025";"";150
+"27.06.2025";"Overføring Innland  1347 Øystein Brenden Betaling Tpp: Vipps Mobilepay AS";"30.06.2025";150;""
+"27.06.2025";"Varekjøp Apotek 1 Storgt. 49 Raufoss Dato 27.06 kl. 13.34 ";"27.06.2025";54.8;""
+"26.06.2025";"Visa  100022  Nok 586,00 Caiacosmetics.no ";"30.06.2025";586;""
+"26.06.2025";"Visa  100121  Q:blush ";"30.06.2025";506;""
+"26.06.2025";"Varekjøp Rema Lena Rådhusgt 27 Lena Dato 26.06 kl. 16.20 ";"27.06.2025";59.9;""
+"26.06.2025";"Varekjøp Extra Kallerud Stampeveien Hunnda Dato 26.06 kl. 21.23 ";"27.06.2025";144.13;""
+"26.06.2025";"Overføring Innland  1346 Sofie Krukhaug Linde Mobil Betaling ";"26.06.2025";3000;""
+"26.06.2025";"Overføring Innland  3339 Bjørn André Krukhaug  ";"26.06.2025";"";200
+"26.06.2025";"Overføring  8545631031 Linda Krukhaug Tusen Takk For Stødig Skyss Tpp: Vipps";"26.06.2025";"";200
+"26.06.2025";"Overføring  34315646742 Emil Krukhaug Litt Skysspenger. Tusen Takk For Tu Ren";"26.06.2025";"";400
+"25.06.2025";"Visa  100121  Recharge ";"26.06.2025";77.68;""
+"25.06.2025";"Visa  100021  Mer Norway AS ";"26.06.2025";38;""
+"25.06.2025";"Varekjøp Domino s Pizza Plogveien 6 Oslo Dato 25.06 kl. 17.43 ";"26.06.2025";348;""
+"25.06.2025";"Varekjøp Claire Plogveien 6 Oslo Dato 25.06 kl. 17.32 ";"26.06.2025";500;""
+"25.06.2025";"Overføring Innland  1349 Eline Julianne k Linde Dominos ";"26.06.2025";"";174
+"25.06.2025";"Overføring Innland  1348 Eline Julianne k Linde Jævla Miljøavgift ";"26.06.2025";"";20
+"25.06.2025";"Varekjøp Espos Utleie Kobbervikdal Drammen Dato 25.06 kl. 14.32 ";"25.06.2025";138;""
+"25.06.2025";"Varekjøp Espos Utleie Kobbervikdal Drammen Dato 25.06 kl. 14.08 ";"25.06.2025";299;""
+"25.06.2025";"Overføring Innland  1347 Eline Julianne k Linde Cola Zero ";"25.06.2025";"";49
+"25.06.2025";"Varekjøp Rema Gjelleråse Carl Bergers Hagan Dato 25.06 kl. 12.51 ";"25.06.2025";129.8;""
+"24.06.2025";"Overføring Innland  1345 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"25.06.2025";129;""
+"23.06.2025";"Varekjøp No0770 Mjøsstranda Gjøvik Dato 23.06 kl. 19.28 ";"24.06.2025";149.98;""
+"23.06.2025";"Overføring Innland  1343 Eline Julianne k Linde Fanta ";"24.06.2025";"";30
+"23.06.2025";"Overføring Innland  1344 Eline Julianne k Linde Mcwrap ";"24.06.2025";"";89
+"23.06.2025";"Overføring Innland  1345 Eline Julianne k Linde Bursdagsgave Isak ";"24.06.2025";"";666.66
+"23.06.2025";"Overføring Innland  1393 Kristina Krukhaug Linde Dress Til Isak ";"24.06.2025";"";666.66
+"23.06.2025";"Overføring Innland  1344 Eline Julianne Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"24.06.2025";50;""
+"23.06.2025";"Varekjøp Mcdonald's 014 Sliperiveien Lilleh Dato 23.06 kl. 14.49 ";"23.06.2025";138;""
+"23.06.2025";"Varekjøp No0772 Sliperiveien Lillehammer Dato 23.06 kl. 14.29 ";"23.06.2025";819;""
+"23.06.2025";"Varekjøp Cc Mat Lilleham Sliperiveien Lilleh Dato 23.06 kl. 14.43 ";"23.06.2025";61.8;""
+"23.06.2025";"Overføring Innland  1343 Eline Julianne Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"23.06.2025";30;""
+"23.06.2025";"Varekjøp Rusta Lillehamm Snekkervegen Skolle Dato 23.06 kl. 12.52 ";"23.06.2025";4644;""
+"23.06.2025";"Giro  1340 Fortum Strøm AS Efaktura ";"23.06.2025";1657.06;""
+"23.06.2025";"Giro  1337 Mova AS Avtalegiro Invoice 828523";"23.06.2025";299;""
+"23.06.2025";"Overføring  4178765111 Lisa Dyvesveen Myrbekk Siris Utdrikningslag Tpp: Vipps Mobilepay AS";"23.06.2025";374;""
+"23.06.2025";"Overføring  4178741276 Ina Maria Berrefjord Siris Utdrikningslag Tpp: Vipps Mobilepay AS";"23.06.2025";262.13;""
+"23.06.2025";"Overføring  4178747384 Veslemøy Linde Tpp: Vipps Mobilepay AS ";"23.06.2025";3000;""
+"23.06.2025";"Overføring  4178747217 Isak Krukhaug Aspelie Tpp: Vipps Mobilepay AS ";"23.06.2025";2000;""
+"23.06.2025";"Overføring Innland  148256564 Nav  ";"23.06.2025";"";17906
+"22.06.2025";"Visa  100122  Nok 39,00 Apple.com/bill ";"23.06.2025";39;""
+"22.06.2025";"Visa  100221  Recharge ";"23.06.2025";63.19;""
+"22.06.2025";"Visa  100021  Mer Norway AS ";"23.06.2025";66.61;""
+"22.06.2025";"Varekjøp Heidal Drivstof Heidalsvegen Heidal Dato 22.06 kl. 16.53 ";"23.06.2025";45;""
+"21.06.2025";"Varekjøp Holmsetervegen Holmseterveg Trette Dato 21.06 kl. 19.02 ";"23.06.2025";70;""
+"21.06.2025";"Overføring Innland  1340 Eline Julianne k Linde Bom ";"23.06.2025";"";23.33
+"21.06.2025";"Overføring Innland  1391 Kristina Krukhaug Linde Bom ";"23.06.2025";"";23.33
+"20.06.2025";"Varekjøp Kiwi 207 Kapp Mjøsvegen 51 Kapp Dato 20.06 kl. 16.05 ";"23.06.2025";24.9;""
+"20.06.2025";"Varekjøp Vita 1304 Jernbanesvin Gjøvik Dato 20.06 kl. 11.37 ";"20.06.2025";400;""
+"20.06.2025";"Varekjøp Apotek 1 Storgt. 49 Raufoss Dato 20.06 kl. 12.39 ";"20.06.2025";3195.4;""
+"20.06.2025";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 20.06 kl. 08.04 ";"20.06.2025";54;""
+"20.06.2025";"Overføring  89033027915 Veslemøy Linde Tpp: Vipps ";"20.06.2025";"";3000
+"19.06.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 19.06 kl. 12.20 ";"19.06.2025";363.11;""
+"18.06.2025";"Visa  100022  Nok 239,00 Apple.com/bill ";"19.06.2025";239;""
+"18.06.2025";"Varekjøp Biltema Avd 226 Rambekkvn 2 Gjøvik Dato 18.06 kl. 14.14 ";"18.06.2025";815.4;""
+"17.06.2025";"Varekjøp Kappahl 326 Jernbanesv.6 Gjøvik Dato 17.06 kl. 19.58 ";"18.06.2025";542;""
+"17.06.2025";"Varekjøp Extra Hunndalen Raufossveien Hunnda Dato 17.06 kl. 20.54 ";"18.06.2025";655.19;""
+"17.06.2025";"Overføring Innland  726 Kasper Haugestøl Kroatia ";"18.06.2025";"";4250
+"17.06.2025";"Overføring Innland  727 Kasper Haugestøl Mat ";"18.06.2025";"";75
+"16.06.2025";"Varekjøp Shell Dokka Storgata 54 Dokka Dato 16.06 kl. 16.01 ";"17.06.2025";158;""
+"16.06.2025";"Overføring Innland  1335 Eline Julianne k Linde Shell Bolle ";"17.06.2025";"";52.67
+"13.06.2025";"Visa  100122  Nok 59,00 Apple.com/bill ";"16.06.2025";59;""
+"13.06.2025";"Visa  100022  Nok 23713,00 Interhome Interc ";"16.06.2025";23713;""
+"13.06.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 13.06 kl. 22.33 ";"16.06.2025";123.8;""
+"13.06.2025";"Kontoregulering  711 Mobil Overføring  ";"13.06.2025";"";23713
+"13.06.2025";"Kontoregulering  1336 Mobil Overføring  ";"13.06.2025";713;""
+"13.06.2025";"Kontoregulering  1335 Mobil Overføring  ";"13.06.2025";5000;""
+"13.06.2025";"Overføring Innland  1734 Marcus Napstad Tur ";"13.06.2025";"";4940
+"13.06.2025";"Overføring  89017200225 Veslemøy Linde Tpp: Vipps ";"16.06.2025";"";150
+"10.06.2025";"Visa  100022  Nok 79,00 Apple.com/bill ";"11.06.2025";79;""
+"10.06.2025";"Overføring Innland  725 Kasper Haugestøl Båt Og Cipralexlån ";"10.06.2025";"";825
+"09.06.2025";"Visa  100022  Nok 249,00 Apple.com/bill ";"10.06.2025";249;""
+"09.06.2025";"Overføring Innland  1329 Eline Julianne k Linde  ";"10.06.2025";"";100
+"07.06.2025";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 07.06 kl. 12.43 ";"10.06.2025";967.59;""
+"07.06.2025";"Varekjøp Musti Gjøvik Ringveien 3 Gjøvik Dato 07.06 kl. 14.41 ";"10.06.2025";852.6;""
+"07.06.2025";"Varekjøp Cc Mat Gjøvik Jernbanesvin Gjøvik Dato 07.06 kl. 14.24 ";"10.06.2025";56.7;""
+"07.06.2025";"Kontoregulering  1334 Mobil Overføring  ";"10.06.2025";4000;""
+"07.06.2025";"Overføring Innland  1383 Kristina Krukhaug Linde  ";"10.06.2025";"";136
+"06.06.2025";"Overføring Innland  1326 Eline Julianne k Linde Båt Ferietur ";"10.06.2025";"";623.25
+"06.06.2025";"Overføring  5099410385 Trym Slåtsveen Kristiansen Tpp: Vipps ";"10.06.2025";"";623
+"06.06.2025";"Overføring Innland  142152775 Nav  ";"06.06.2025";"";5372
+"04.06.2025";"Overføring Innland  3319 Bjørn André Krukhaug  ";"05.06.2025";"";280
+"04.06.2025";"Kontoregulering  1333 Mobil Overføring  ";"04.06.2025";4000;""
+"04.06.2025";"Verdipapir  13394817 13394817 Utbet. V/innl Av Andeler ";"04.06.2025";"";3792.69
+"03.06.2025";"Visa  100022  Nok 129,00 Netflix.com ";"04.06.2025";129;""
+"02.06.2025";"Visa  100031  Vipps:vipps:trym Sl Tsvee ";"03.06.2025";"";4940
+"02.06.2025";"Varekjøp Berit Tveter Al Lillo Lena Dato 02.06 kl. 17.26 ";"03.06.2025";2200;""
+"02.06.2025";"Kontoregulering  1332 Mobil Overføring  ";"02.06.2025";60;""
+"02.06.2025";"Kontoregulering  1331 Mobil Overføring  ";"02.06.2025";4940;""
+"02.06.2025";"Overføring Innland  5298 Veslemøy Linde Klespakke ";"02.06.2025";"";500
+"31.05.2025";"Visa  100022  Nok 11,00 Apple.com/bill ";"02.06.2025";11;""
+"31.05.2025";"Overføring Innland  5296 Veslemøy Linde Brus ";"02.06.2025";"";30
+"30.05.2025";"Kontoregulering  1330 Mobil Overføring  ";"02.06.2025";3000;""
+"30.05.2025";"Overføring Innland  721 Kasper Haugestøl Grillkrydder ";"02.06.2025";"";40
+"30.05.2025";"Giro  788352 Sofie Krukhaug Linde  ";"30.05.2025";"";5000
+"30.05.2025";"Varekjøp Kapp Legesenter . Kapp Dato 30.05 kl. 11.58 ";"30.05.2025";299;""
+"29.05.2025";"Kontoregulering  710 Mobil Overføring  ";"30.05.2025";"";440
+"28.05.2025";"Visa  100021  Change Lingerie ";"30.05.2025";2589.76;""
+"28.05.2025";"Varekjøp Junkyard Y45 Vangsvn. 100 Hamar Dato 28.05 kl. 19.46 ";"30.05.2025";202.5;""
+"28.05.2025";"Kontoregulering  709 Mobil Overføring  ";"30.05.2025";"";2500
+"27.05.2025";"Kontoregulering  1329 Mobil Overføring  ";"27.05.2025";4940;""
+"27.05.2025";"Overføring Innland  1317 Eline Julianne k Linde Feriehus ";"27.05.2025";"";4940
+"27.05.2025";"Overføring Innland  1328 Interhome Mobil Betaling 475125100891/2";"27.05.2025";5928;""
+"27.05.2025";"Overføring Innland  1378 Kristina Krukhaug Linde Ferie Kroatia ";"27.05.2025";"";4940
+"24.05.2025";"Varekjøp Joker Gjøvik Johan Granvi Gjøvik Dato 24.05 kl. 15.50 ";"26.05.2025";127.7;""
+"23.05.2025";"Varekjøp Vitus Raufoss Sagvollvn. 1 Raufoss Dato 23.05 kl. 16.10 ";"26.05.2025";153.1;""
+"23.05.2025";"Varekjøp Kapp Legesenter . Kapp Dato 23.05 kl. 15.03 ";"26.05.2025";235;""
+"22.05.2025";"Visa  100021  Kapp Legesenter ";"23.05.2025";299;""
+"22.05.2025";"Visa  100022  Nok 39,00 Apple.com/bill ";"22.05.2025";39;""
+"21.05.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 21.05 kl. 20.22 ";"22.05.2025";93.9;""
+"21.05.2025";"Overføring Innland  720 Kasper Haugestøl  ";"22.05.2025";"";80
+"20.05.2025";"Giro  1327 Mova AS Avtalegiro Invoice 784490";"20.05.2025";299;""
+"19.05.2025";"Varekjøp Ambrosia Mat AS Bøverbrugata Bøverb Dato 19.05 kl. 16.35 ";"20.05.2025";207;""
+"18.05.2025";"Kontoregulering  708 Mobil Overføring  ";"19.05.2025";"";1031
+"16.05.2025";"Varekjøp Europris Raufos Storgata 49 Raufos Dato 16.05 kl. 17.55 ";"19.05.2025";74.9;""
+"16.05.2025";"Varekjøp Vinmonopolet Raufoss Raufoss Dato 16.05 kl. 17.45 ";"19.05.2025";366.3;""
+"16.05.2025";"Varekjøp Apotek 1 Storgt. 49 Raufoss Dato 16.05 kl. 18.00 ";"19.05.2025";294.5;""
+"16.05.2025";"Overføring Innland  1722 Marcus Napstad  ";"19.05.2025";"";104
+"16.05.2025";"Overføring Innland  717 Kasper Haugestøl  ";"19.05.2025";"";550
+"16.05.2025";"Overføring Innland  5279 Veslemøy Linde  ";"16.05.2025";"";500
+"16.05.2025";"Overføring  61055331530 Mikail Oliver Stamnli Tpp: Vipps ";"19.05.2025";"";32
+"15.05.2025";"Visa  100021  Jemogfix.no ";"16.05.2025";662.7;""
+"15.05.2025";"Varekjøp Kiwi 242 Nærose Åsmarkvegen Nærose Dato 15.05 kl. 10.44 ";"15.05.2025";54.8;""
+"13.05.2025";"Visa  100022  Nok 59,00 Apple.com/bill ";"14.05.2025";59;""
+"13.05.2025";"Varekjøp Bunnpris Raufos Sagvollveien Raufos Dato 13.05 kl. 20.39 ";"14.05.2025";230.8;""
+"13.05.2025";"Kontoregulering  707 Mobil Overføring  ";"13.05.2025";"";1000
+"12.05.2025";"Varekjøp Aashaug Blomst Sagvollvn 1 Raufos Dato 12.05 kl. 16.47 ";"13.05.2025";334;""
+"12.05.2025";"Overføring Innland  716 Kasper Haugestøl Blommer ";"13.05.2025";"";150
+"12.05.2025";"Varekjøp Kapp Legesenter . Kapp Dato 12.05 kl. 13.50 ";"12.05.2025";243;""
+"12.05.2025";"Overføring Innland  714 Kasper Haugestøl Parkering Mcdonalds Nattklubb Innga Ng Rema Coo";"12.05.2025";"";650
+"10.05.2025";"Visa  100022  Nok 249,00 Apple.com/bill ";"12.05.2025";249;""
+"10.05.2025";"Overføring Innland  713 Kasper Haugestøl  ";"12.05.2025";"";100
+"07.05.2025";"Giro  1308 DNB Bank Asa Fondshandel ";"07.05.2025";2000;""
+"04.05.2025";"Visa  100122  Nok 129,00 Netflix.com ";"05.05.2025";129;""
+"03.05.2025";"Visa  100021  Nyx:akershuskollektivterm ";"05.05.2025";20;""
+"03.05.2025";"Varekjøp Espos Utleie Kobbervikdal Drammen Dato 03.05 kl. 16.38 ";"05.05.2025";150;""
+"02.05.2025";"Overføring Innland  5282 Veslemøy Linde  ";"05.05.2025";"";3000
+"30.04.2025";"Visa  100021  251200 Extra Kallerud ";"02.05.2025";482.62;""
+"28.04.2025";"Overføring Innland  1325 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"29.04.2025";750;""
+"28.04.2025";"Overføring Innland  712 Kasper Haugestøl Dna Billetter ";"29.04.2025";"";750
+"27.04.2025";"Overføring Innland  1324 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"28.04.2025";1500;""
+"27.04.2025";"Overføring Innland  1323 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"28.04.2025";167;""
+"27.04.2025";"Overføring Innland  1322 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"28.04.2025";1500;""
+"27.04.2025";"Overføring  89010137803 Veslemøy Linde Tpp: Vipps ";"28.04.2025";"";300
+"27.04.2025";"Overføring  89010065621 Veslemøy Linde Tpp: Vipps ";"28.04.2025";"";200
+"27.04.2025";"Overføring  89009741723 Veslemøy Linde Tpp: Vipps ";"28.04.2025";"";1200
+"26.04.2025";"Overføring Innland  1321 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"28.04.2025";200;""
+"26.04.2025";"Overføring Innland  1320 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"28.04.2025";59;""
+"25.04.2025";"Giro  1319 Vestre Toten Kommune Efaktura ";"28.04.2025";5162.57;""
+"24.04.2025";"Visa  100021  2614 Extra Lena ";"25.04.2025";489.1;""
+"23.04.2025";"Overføring Innland  1301 Eline Julianne k Linde Mcflyrry ";"24.04.2025";"";35
+"22.04.2025";"Visa  100022  Nok 79,00 Prime Video ";"23.04.2025";79;""
+"22.04.2025";"Visa  100122  Nok 39,00 Apple.com/bill ";"22.04.2025";39;""
+"20.04.2025";"Giro  1310 Mova AS Avtalegiro Invoice 734579";"22.04.2025";299;""
+"19.04.2025";"Visa  100021  Zettle_:astral Regland ";"22.04.2025";149;""
+"19.04.2025";"Overføring Innland  1318 Kristina Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"22.04.2025";22;""
+"18.04.2025";"Overføring Innland  1295 Eline Julianne k Linde  ";"22.04.2025";"";346
+"18.04.2025";"Overføring Innland  1364 Kristina Krukhaug Linde  ";"22.04.2025";"";295
+"18.04.2025";"Overføring Innland  707 Kasper Haugestøl  ";"22.04.2025";"";453
+"17.04.2025";"Varekjøp Olearys Hamar Strandgt 21 Hamar Dato 17.04 kl. 19.09 ";"22.04.2025";1511;""
+"16.04.2025";"Overføring Innland  1317 Marcus Napstad Betaling Tpp: Vipps Mobilepay AS";"22.04.2025";150;""
+"16.04.2025";"Overføring Innland  1705 Marcus Napstad  ";"22.04.2025";"";90
+"16.04.2025";"Overføring Innland  1316 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"22.04.2025";153;""
+"16.04.2025";"Overføring Innland  5269 Veslemøy Linde  ";"16.04.2025";"";500
+"15.04.2025";"Overføring Innland  1315 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"15.04.2025";100;""
+"14.04.2025";"Visa  100021  251200 Extra Kallerud ";"15.04.2025";90.6;""
+"14.04.2025";"Varekjøp Byggmax 2306 Damvn. 2 Hunndalen Dato 14.04 kl. 16.05 ";"15.04.2025";921.35;""
+"14.04.2025";"Overføring  89085319472 Veslemøy Linde Tpp: Vipps ";"15.04.2025";"";200
+"13.04.2025";"Visa  100022  Nok 59,00 Apple.com/bill ";"14.04.2025";59;""
+"13.04.2025";"Overføring Innland  1314 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"14.04.2025";360;""
+"12.04.2025";"Varekjøp Fk Lena 2 Silogata Lena Dato 12.04 kl. 13.20 ";"14.04.2025";626;""
+"12.04.2025";"Varekjøp Byggmax 2306 Damvn. 2 Hunndalen Dato 12.04 kl. 15.11 ";"14.04.2025";1423.75;""
+"12.04.2025";"Overføring Innland  1313 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"14.04.2025";500;""
+"12.04.2025";"Overføring Innland  706 Kasper Haugestøl Kødda ";"14.04.2025";"";500
+"12.04.2025";"Overføring  89081537466 Siri Fuglevåg Aspelie Tpp: Vipps ";"14.04.2025";"";559
+"12.04.2025";"Overføring  89080581250 Veslemøy Linde Tpp: Vipps ";"14.04.2025";"";500
+"11.04.2025";"Overføring Innland  1311 Eline Julianne Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"14.04.2025";155;""
+"11.04.2025";"Overføring Innland  1312 Eline Julianne Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"14.04.2025";100;""
+"09.04.2025";"Visa  100021  274000 Extra Raufoss ";"10.04.2025";356.65;""
+"08.04.2025";"Overføring Innland  1309 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"09.04.2025";20;""
+"07.04.2025";"Giro  1294 DNB Bank Asa Fondshandel ";"07.04.2025";2000;""
+"06.04.2025";"Overføring Innland  1307 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"07.04.2025";150;""
+"05.04.2025";"Varekjøp Europris Gjøvik Kallerudlia Gjøvik Dato 05.04 kl. 12.07 ";"07.04.2025";164.6;""
+"04.04.2025";"Visa  100021  274000 Extra Raufoss ";"07.04.2025";158.35;""
+"04.04.2025";"Varekjøp Europris Raufos Storgata 49 Raufos Dato 04.04 kl. 16.17 ";"07.04.2025";513.6;""
+"04.04.2025";"Visa  100022  Nok 129,00 Netflix.com ";"04.04.2025";129;""
+"03.04.2025";"Varekjøp Rema Raufoss No Storgata 71 Raufos Dato 03.04 kl. 16.58 ";"04.04.2025";126.9;""
+"02.04.2025";"Visa  100022  Nok 2446,20 Vidaxlno ";"03.04.2025";2446.2;""
+"02.04.2025";"Varekjøp Obs Bygg Kaller Stampeveien Hunnda Dato 02.04 kl. 20.56 ";"03.04.2025";388;""
+"01.04.2025";"Visa  100021  2614 Extra Lena ";"02.04.2025";130.6;""
+"31.03.2025";"Visa  100121  2614 Extra Lena ";"01.04.2025";359.2;""
+"31.03.2025";"Varekjøp 15 Plantasjen Huntonstrand Gjøvik Dato 31.03 kl. 17.46 ";"01.04.2025";2829.3;""
+"31.03.2025";"Overføring Innland  703 Kasper Haugestøl Baby ";"01.04.2025";"";2500
+"30.03.2025";"Visa  100021  Change Lingerie ";"01.04.2025";954.46;""
+"30.03.2025";"Varekjøp Ambrosia Mat AS Bøverbrugata Bøverb Dato 30.03 kl. 13.35 ";"31.03.2025";57;""
+"29.03.2025";"Visa  100622  Sek 269,65 Ica Supermarket Ch Valutakurs: 1,0799";"31.03.2025";291.22;""
+"29.03.2025";"Visa  100522  Sek 900,90 Gottebiten 107 Valutakurs: 1,0799";"31.03.2025";972.97;""
+"29.03.2025";"Visa  100422  Sek 277,80 Systembolaget Valutakurs: 1,0799";"31.03.2025";300.02;""
+"29.03.2025";"Visa  100322  Sek 599,00 Hm Se0408 Valutakurs: 1,0800";"31.03.2025";646.92;""
+"29.03.2025";"Visa  100222  Sek 419,90 Bodypower 307 Valutakurs: 1,0799";"31.03.2025";453.49;""
+"29.03.2025";"Visa  100122  Sek 519,65 Maximat Charlotten Valutakurs: 1,0799";"31.03.2025";561.22;""
+"29.03.2025";"Varekjøp Mdc 048 Gjøvik Elvegata 6 Gjøvik Dato 29.03 kl. 08.43 ";"31.03.2025";39;""
+"29.03.2025";"Overføring Innland  1281 Eline Julianne k Linde Fanta Lemon ";"31.03.2025";"";87
+"29.03.2025";"Overføring Innland  1305 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"31.03.2025";2500;""
+"29.03.2025";"Overføring  4081728394 Veslemøy Linde Tpp: Vipps Mobilepay AS ";"31.03.2025";400;""
+"29.03.2025";"Overføring  89049444011 Veslemøy Linde Tpp: Vipps ";"31.03.2025";"";400
+"28.03.2025";"Visa  100021  Klarna:ikventilasjon ";"31.03.2025";548.1;""
+"28.03.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 28.03 kl. 21.20 ";"31.03.2025";120.6;""
+"28.03.2025";"Varekjøp Gelatiamo Avd g Storgata 8 Gjøvik Dato 28.03 kl. 17.52 ";"31.03.2025";50;""
+"28.03.2025";"Varekjøp M.a.p.t 2.0 AS Celluloseveg Gjøvik Dato 28.03 kl. 17.41 ";"31.03.2025";549;""
+"27.03.2025";"Visa  100021  274000 Extra Raufoss ";"28.03.2025";398.9;""
+"27.03.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 27.03 kl. 21.25 ";"28.03.2025";140.2;""
+"27.03.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 27.03 kl. 07.43 ";"27.03.2025";112.7;""
+"26.03.2025";"Overføring Innland  1304 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"27.03.2025";119;""
+"26.03.2025";"Giro  1303 Nordea Finans Norge AS Efaktura ";"26.03.2025";2772;""
+"26.03.2025";"Kontoregulering  706 Mobil Overføring  ";"26.03.2025";"";4039
+"26.03.2025";"Overføring Innland  1302 Marcus Napstad Betaling Tpp: Vipps Mobilepay AS";"26.03.2025";1696.5;""
+"26.03.2025";"Giro  1295 Mova AS Avtalegiro Invoice 681516";"26.03.2025";598;""
+"26.03.2025";"Overføring Innland  121056078 Skatteetaten - Skatteinnkreving Skatt ";"26.03.2025";"";28825
+"24.03.2025";"Overføring Innland  1301 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"25.03.2025";150;""
+"24.03.2025";"Overføring  4075812973 Siri Fuglevåg Aspelie Padel Tpp: Vipps Mobilepay AS";"24.03.2025";150;""
+"22.03.2025";"Visa  100022  Nok 39,00 Apple.com/bill ";"24.03.2025";39;""
+"22.03.2025";"Visa  100022  Nok 79,00 Prime Video ";"24.03.2025";79;""
+"19.03.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 19.03 kl. 21.21 ";"20.03.2025";173.7;""
+"18.03.2025";"Varekjøp Cc Mat Gjøvik Jernbanesvin Gjøvik Dato 18.03 kl. 19.43 ";"19.03.2025";34;""
+"18.03.2025";"Overføring Innland  1274 Eline Julianne k Linde Batteri ";"19.03.2025";"";34
+"18.03.2025";"Overføring Innland  1275 Eline Julianne k Linde Lading Askertur ";"19.03.2025";"";34
+"18.03.2025";"Overføring Innland  698 Kasper Haugestøl Is å Sån ";"18.03.2025";"";200
+"17.03.2025";"Varekjøp Kiwi 002 Reinsv Bøverbruvege Reinsv Dato 17.03 kl. 15.55 ";"18.03.2025";258.8;""
+"16.03.2025";"Overføring Innland  1299 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"17.03.2025";200;""
+"16.03.2025";"Overføring Innland  5259 Veslemøy Linde  ";"17.03.2025";"";500
+"15.03.2025";"Visa  100021  Norsk Tipping Ep ";"17.03.2025";200;""
+"15.03.2025";"Overføring Innland  1271 Eline Julianne k Linde Nuggets ";"17.03.2025";"";51
+"15.03.2025";"Overføring Innland  1296 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"17.03.2025";145;""
+"15.03.2025";"Overføring Innland  1297 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"17.03.2025";331;""
+"15.03.2025";"Overføring Innland  1298 Kasper Haugestøl Betaling Tpp: Vipps Mobilepay AS";"17.03.2025";80;""
+"15.03.2025";"Overføring Innland  695 Kasper Haugestøl  ";"17.03.2025";"";80
+"13.03.2025";"Visa  100022  Nok 59,00 Apple.com/bill ";"14.03.2025";59;""
+"11.03.2025";"Overføring Innland  1349 Kristina Krukhaug Linde Monster ";"12.03.2025";"";25
+"09.03.2025";"Overføring Innland  1681 Marcus Napstad  ";"10.03.2025";"";39
+"08.03.2025";"Visa  100022  Nok 139,00 Apple.com/bill ";"10.03.2025";139;""
+"08.03.2025";"Visa  100022  Nok 416,00 Matchi - 92960783 ";"10.03.2025";416;""
+"08.03.2025";"Overføring Innland  3252 Bjørn André Krukhaug  ";"10.03.2025";"";66
+"08.03.2025";"Overføring Innland  1267 Eline Julianne k Linde Padel ";"10.03.2025";"";80
+"08.03.2025";"Overføring  89005649338 Isak Krukhaug Linde Tpp: Vipps ";"10.03.2025";"";66
+"08.03.2025";"Overføring  89005369866 Siri Fuglevåg Aspelie Tpp: Vipps ";"10.03.2025";"";66
+"08.03.2025";"Overføring  82205368395 Espen Myrvold Holtet Tpp: Vipps ";"10.03.2025";"";66
+"07.03.2025";"Giro  1288 DNB Global Indeks a Fast Oppdrag ";"07.03.2025";2000;""
+"04.03.2025";"Visa  100022  Nok 129,00 Netflix.com ";"04.03.2025";129;""
+"03.03.2025";"Overføring Innland  693 Kasper Haugestøl Padel ";"03.03.2025";"";100
+"28.02.2025";"Visa  100021  Ups Norway ";"03.03.2025";1099;""
+"28.02.2025";"Giro  907571 Sofie Krukhaug Linde  ";"28.02.2025";"";4000
+"27.02.2025";"Visa  100021  2614 Extra Lena ";"28.02.2025";27.5;""
+"22.02.2025";"Visa  100222  Nok 79,00 Prime Video ";"24.02.2025";79;""
+"22.02.2025";"Visa  100122  Nok 39,00 Apple.com/bill ";"24.02.2025";39;""
+"22.02.2025";"Varekjøp Rusta Gjøvik Kasper Andre Gjøvik Dato 22.02 kl. 14.06 ";"24.02.2025";193.6;""
+"21.02.2025";"Visa  100021  Norsk Tipping Ep ";"24.02.2025";200;""
+"21.02.2025";"Overføring Innland  1260 Eline Julianne k Linde Padel Aylen ";"24.02.2025";"";60
+"21.02.2025";"Overføring Innland  5249 Veslemøy Linde  ";"21.02.2025";"";500
+"21.02.2025";"Overføring  82276066962 Espen Myrvold Holtet Tpp: Vipps ";"24.02.2025";"";60
+"21.02.2025";"Overføring  89074718061 Isak Krukhaug Linde Tpp: Vipps ";"21.02.2025";"";75
+"20.02.2025";"Visa  100021  251200 Extra Kallerud ";"21.02.2025";110.2;""
+"20.02.2025";"Overføring Innland  1259 Eline Julianne k Linde Padel ";"20.02.2025";"";75
+"20.02.2025";"Giro  1291 Mova AS Avtalegiro Invoice 629175";"20.02.2025";299;""
+"19.02.2025";"Overføring Innland  1340 Kristina Krukhaug Linde Padel ";"20.02.2025";"";75
+"19.02.2025";"Overføring  89071205561 Siri Fuglevåg Aspelie Tpp: Vipps ";"20.02.2025";"";75
+"19.02.2025";"Overføring  5070249491 Ole Ragnar Randen Tpp: Vipps ";"19.02.2025";"";75
+"16.02.2025";"Overføring  89064012276 Isak Krukhaug Linde Tpp: Vipps ";"17.02.2025";"";80
+"15.02.2025";"Visa  100021  Norsk Tipping Ep ";"17.02.2025";100;""
+"14.02.2025";"Kontoregulering  705 Mobil Overføring  ";"17.02.2025";"";100
+"13.02.2025";"Visa  100022  Nok 59,00 Apple.com/bill ";"14.02.2025";59;""
+"13.02.2025";"Overføring Innland  1292 Kristina Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"14.02.2025";30;""
+"11.02.2025";"Visa  100021  2614 Extra Lena ";"12.02.2025";486;""
+"11.02.2025";"Overføring Innland  1290 Eline Julianne Krukhaug Linde Betaling Tpp: Vipps Mobilepay AS";"12.02.2025";88;""
+"08.02.2025";"Visa  100021  Norsk Tipping Ep ";"10.02.2025";250;""
+"08.02.2025";"Overføring Innland  1251 Eline Julianne k Linde Kakeingredienser ";"10.02.2025";"";80
+"08.02.2025";"Overføring Innland  1332 Kristina Krukhaug Linde Kake Mamma ";"10.02.2025";"";80
+"07.02.2025";"Giro  1289 DNB Global Indeks a Sparing ";"07.02.2025";1000;""
+"07.02.2025";"Giro  1286 DNB Global Indeks a Fast Oppdrag ";"07.02.2025";2000;""
+"05.02.2025";"Overføring Innland  1327 Kristina Krukhaug Linde Kluter ";"06.02.2025";"";25
+"04.02.2025";"Visa  100022  Nok 129,00 Netflix.com ";"04.02.2025";129;""
